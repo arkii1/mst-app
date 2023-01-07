@@ -16,3 +16,6 @@ Url to site: https://arkii1.github.io/mst-app/
 2. Using colour to showcase how well a player has done on each hole/overall.
 3. Add graphs for statistics, e.g. a line graph with hole number on x-axis, and number of puts/relative to par on y-axis.
 4. Split header names correctly. Attempted a splitCamelCase function, however it made keys like "MTSID" into "M S T I D", so decided to stop there.
+5. Keep column width same when adding filter. Width is increased on click due to icon being added.
+6. Remove "?" icon with foriegen characters.
+7. Add flag emoji instead of "ENG".
