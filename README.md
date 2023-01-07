@@ -14,8 +14,6 @@ Url to site: https://arkii1.github.io/mst-app/
 Thoughts:
 I assume there is no way to access the data other than the event 'data-update', meaning the data slowly loads one at a time. I tested this through an [online api testing tool](https://reqbin.com/) and it shows only one event is defined, meaning I can't display all the data on first render unless I store it manually, so decided to leave this in a real life scenario this would be accessible from the data server.
 
-I should also note that as for comments I like to use them as little as possible unless working with new technology. This is because I try to make my code as readable as possible, and I feel like comments can be a clutch unless the logic is large and complex, which would then require a summary.
-
 Some future functionality ideas:
 1. Clicking on row takes you to a 'player details' page.
 2. Using colour to showcase how well a player has done on each hole/overall.
