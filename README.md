@@ -20,3 +20,4 @@ Some future functionality ideas:
 1. Clicking on row takes you to a 'player details' page.
 2. Using colour to showcase how well a player has done on each hole/overall.
 3. Add graphs for statistics, e.g. a line graph with hole number on x-axis, and number of puts/relative to par on y-axis.
+4. Split header names correctly. Attempted a splitCamelCase function, however it made keys like "MTSID" into "M S T I D", so decided to stop there.
