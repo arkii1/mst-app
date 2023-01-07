@@ -11,7 +11,7 @@ Url to site: https://arkii1.github.io/mst-app/
 5. Implement the sorting logic inside Table.js.
 6. Go through and clean up code.
 
-Thoughts:
+## Thoughts
 I assume there is no way to access the data other than the event 'data-update', meaning the data slowly loads one at a time. I tested this through an [online api testing tool](https://reqbin.com/) and it shows only one event is defined, meaning I can't display all the data on first render unless I store it manually, so decided to leave this in a real life scenario this would be accessible from the data server.
 
 Some future functionality ideas:
