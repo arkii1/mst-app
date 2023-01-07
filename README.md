@@ -1,5 +1,5 @@
 # mst-app
-A data-driven application which displays displays and updates a table.
+A data-driven application which displays and updates a table.
 
 Url to site: https://arkii1.github.io/mst-app/
 
